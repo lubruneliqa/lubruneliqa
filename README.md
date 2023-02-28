@@ -1,5 +1,4 @@
-  ###                                                                Hi 👋  I'm Lu Bruneli, and Welcome to my Github
-
+  ###                                                                Hi 👋  I'm Lu Bruneli, and Welcome to my Github !😊
    
    
 👩‍💻 I have a bachelor's degree in Business Administration, a postgraduate degree in Software Engineering with an emphasis on quality and software testing.
