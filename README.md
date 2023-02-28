@@ -1,10 +1,8 @@
-###                                        Hi 👋. I'm Lu Bruneli
+                                       Hi 👋. I'm Lu Bruneli
 
-<!--
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working with Javascript, Behat, Cypress.
+- 🔭 I’m currently working with Javascript, Behat, Cypress, Shift-left-testing and agile practices.
  
 - 🌱 I'm always in constant learning.
 
@@ -12,7 +10,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: lubruneli.qa@gmail.com
 
--->
+
 
 
 
